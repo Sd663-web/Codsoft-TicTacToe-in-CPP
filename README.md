@@ -1,4 +1,4 @@
-#🎮 Tic-Tac-Toe Game in C++
+🎮 Tic-Tac-Toe Game in C++
 📌 Mini Project | CodeSoft C++ Virtual Internship
 
 This repository contains a console-based Tic-Tac-Toe game developed using C++ as part of Task 1 of the CodeSoft C++ Virtual Internship.
